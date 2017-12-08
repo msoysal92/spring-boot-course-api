@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: course
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: msoys
+Implementation-Vendor-Id: com.soysal.springbootquickstart
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/course/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
